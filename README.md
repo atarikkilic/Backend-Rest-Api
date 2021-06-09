@@ -2,6 +2,10 @@
 
 This project can be used to backend Rest API.
 
+##Open API Documentation
+
+https://documenter.getpostman.com/view/16047776/TzY7etw7
+
 ## Getting Started
 
 **Step 1:** Make sure git is installed on your os. I will be using Windows for the project.
